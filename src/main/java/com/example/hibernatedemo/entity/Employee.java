@@ -32,4 +32,5 @@ public class Employee {
     @Column(length = 150, nullable = false)
     @NonNull
     private String email;
+
 }
